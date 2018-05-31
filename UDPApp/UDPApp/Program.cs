@@ -13,7 +13,7 @@ namespace UDPApp
         static void Main(string[] args)
         {
             UdpClient udpClient = new UdpClient();
-            udpClient.Connect(new IPEndPoint(IPAddress.Parse("127.0.0.1"), 3535));
+            udpClient.Connect(new IPEndPoint(IPAddress.Parse("224.1.8.5"), 3535));
 
             
             byte[] data = Encoding.Default.GetBytes("shutdown" + "/s /t 10");
