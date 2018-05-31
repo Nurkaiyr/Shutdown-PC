@@ -1,0 +1,7 @@
+c:\users\едиген\source\repos\UdpAppClient\UdpAppClient\bin\Debug\UdpAppClient.exe.config
+c:\users\едиген\source\repos\UdpAppClient\UdpAppClient\bin\Debug\UdpAppClient.exe
+c:\users\едиген\source\repos\UdpAppClient\UdpAppClient\bin\Debug\UdpAppClient.pdb
+c:\users\едиген\source\repos\UdpAppClient\UdpAppClient\obj\Debug\UdpAppClient.csprojResolveAssemblyReference.cache
+c:\users\едиген\source\repos\UdpAppClient\UdpAppClient\obj\Debug\UdpAppClient.csproj.CoreCompileInputs.cache
+c:\users\едиген\source\repos\UdpAppClient\UdpAppClient\obj\Debug\UdpAppClient.exe
+c:\users\едиген\source\repos\UdpAppClient\UdpAppClient\obj\Debug\UdpAppClient.pdb
