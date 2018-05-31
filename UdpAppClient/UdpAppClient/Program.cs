@@ -14,7 +14,7 @@ namespace UdpAppClient
         static void Main(string[] args)
         {
             UdpClient udpClient = new UdpClient(3535);
-            //udpClient.JoinMulticastGroup(IPAddress.Parse("127.0.0.1"), 50);
+            udpClient.JoinMulticastGroup(IPAddress.Parse("224.1.8.5"), 50);
 
             IPEndPoint endPoint = null;
             byte[] receiveData = udpClient.Receive(ref endPoint);
